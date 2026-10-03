@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:technews/pages/home.dart';
 import 'package:technews/utils/color.dart';
-
+//my first Internship project
 void main() {
   runApp(const MyApp());
 }
